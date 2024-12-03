@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.6.2](https://github.com/kiwigrid/antora-maven-content-extension/compare/v1.6.1...v1.6.2) (2024-12-03)
+
+
+### 🧹 Miscellaneous Chores
+
+* **deps-dev:** bump mocha from 10.8.2 to 11.0.1 ([8273c60](https://github.com/kiwigrid/antora-maven-content-extension/commit/8273c60cabf3421fc20134ab37745cabac62530f))
+
 ## [1.6.1](https://github.com/kiwigrid/antora-maven-content-extension/compare/v1.6.0...v1.6.1) (2024-11-19)
 
 
